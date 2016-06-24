@@ -1,0 +1,27 @@
+{
+  "name": "standard-text",
+  "version": "0.1.0",
+  "description": "Convert text to language standard",
+  "main": "./lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitica/standard-text.git"
+  },
+  "keywords": [
+    "standard",
+    "text"
+  ],
+  "author": "Dumitru Cantea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitica/standard-text/issues"
+  },
+  "homepage": "https://github.com/Mitica/standard-text#readme"
+}
